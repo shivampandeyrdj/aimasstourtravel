@@ -1,0 +1,47 @@
+*{padding: 0px;
+     margin: 0px; 
+     box-sizing: border-box;  
+     font-family: Arial, Helvetica, sans-serif;}
+#logo{
+    width: 100%;
+    min-height: 50px;
+    background-color: lightgray;
+    padding-left: 2%;
+  line-height: 50px;}
+  #nav-div{
+    min-width: 100%;
+    min-height: 30px;
+    line-height: 30px;
+    background-color:lightgray;
+    margin-top: 1%;
+    text-align: center;}
+#header-banner{ width: 100%;
+    min-height: 150px;
+    background-color: lightgray;
+    padding-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+    line-height: 150px;}
+#main-div{
+    display: flex;}
+
+    #side-bar{min-height: 300px;
+    background-color: lightgray;
+    padding-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+    width:100% ;
+    line-height: 300px;}
+#body{min-height: 150px;
+    background-color: lightgray;
+    padding-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+    min-height: 300px;
+    line-height: 300px;
+    width: 100%;
+    margin-left: 1%;}
+
+       
+    
+    
